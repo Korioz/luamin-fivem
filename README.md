@@ -13,19 +13,13 @@ Feel free to fork if you see possible improvements!
 Via [npm](https://www.npmjs.com/):
 
 ```bash
-npm install luamin
-```
-
-Via [Bower](http://bower.io/):
-
-```bash
-bower install luamin
+npm install Korioz/luamin-fivem
 ```
 
 Via [Component](https://github.com/component/component):
 
 ```bash
-component install mathiasbynens/luamin
+component install Korioz/luamin-fivem
 ```
 
 In a browser:
@@ -78,7 +72,7 @@ luamin.minify(ast); // 'a=(1+2-3)*4/5^6'
 To use the `luamin` binary in your shell, simply install luamin globally using npm:
 
 ```bash
-npm install -g luamin
+npm install -g Korioz/luamin-fivem
 ```
 
 After that you will be able to minify Lua scripts from the command line:
